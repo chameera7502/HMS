@@ -1,0 +1,14 @@
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\bin\Debug\POS.BLL.dll
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\bin\Debug\HMS.Domain.exe
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\bin\Debug\POS.DAL.dll
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\bin\Debug\POS.BLL.pdb
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\bin\Debug\HMS.Domain.pdb
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\bin\Debug\POS.DAL.pdb
+C:\Projects\HotemManagement System\ConsoleApplication1\ClassLibrary1\obj\Debug\HMS.Common.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Projects\HotemManagement System\HMS.DAL\bin\Debug\POS.DAL.dll.config
+C:\Projects\HotemManagement System\HMS.DAL\bin\Debug\POS.DAL.dll
+C:\Projects\HotemManagement System\HMS.DAL\bin\Debug\POS.DAL.pdb
+C:\Projects\HotemManagement System\HMS.DAL\obj\Debug\HMS.DAL.csprojResolveAssemblyReference.cache
+C:\Projects\HotemManagement System\HMS.DAL\obj\Debug\POS.DAL.dll
+C:\Projects\HotemManagement System\HMS.DAL\obj\Debug\POS.DAL.pdb
+C:\Projects\HotemManagement System\HMS.DAL\bin\Debug\HMS.Domain.exe
+C:\Projects\HotemManagement System\HMS.DAL\bin\Debug\HMS.Domain.pdb

@@ -1,0 +1,10 @@
+C:\Projects\HotemManagement System\HMS.BLL\bin\Debug\POS.BLL.dll
+C:\Projects\HotemManagement System\HMS.BLL\bin\Debug\POS.BLL.pdb
+C:\Projects\HotemManagement System\HMS.BLL\bin\Debug\POS.DAL.dll
+C:\Projects\HotemManagement System\HMS.BLL\bin\Debug\EntityFramework.dll
+C:\Projects\HotemManagement System\HMS.BLL\bin\Debug\POS.DAL.pdb
+C:\Projects\HotemManagement System\HMS.BLL\obj\Debug\HMS.BLL.csprojResolveAssemblyReference.cache
+C:\Projects\HotemManagement System\HMS.BLL\obj\Debug\POS.BLL.dll
+C:\Projects\HotemManagement System\HMS.BLL\obj\Debug\POS.BLL.pdb
+C:\Projects\HotemManagement System\HMS.BLL\bin\Debug\HMS.Domain.exe
+C:\Projects\HotemManagement System\HMS.BLL\bin\Debug\HMS.Domain.pdb
