@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS.BLL", "..\HMS.BLL\HMS.B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS.Common", "ClassLibrary1\HMS.Common.csproj", "{FA27F5B3-4C13-452E-9F57-9B25974578E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS.Service", "HMS.Service\HMS.Service.csproj", "{A2EE3222-8267-47BE-BE7E-1EED5D533453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS.Service.Tests", "HMS.Service.Tests\HMS.Service.Tests.csproj", "{F22F72E0-37AC-40A3-871E-5E14D1739C3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{FA27F5B3-4C13-452E-9F57-9B25974578E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA27F5B3-4C13-452E-9F57-9B25974578E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA27F5B3-4C13-452E-9F57-9B25974578E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2EE3222-8267-47BE-BE7E-1EED5D533453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2EE3222-8267-47BE-BE7E-1EED5D533453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2EE3222-8267-47BE-BE7E-1EED5D533453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2EE3222-8267-47BE-BE7E-1EED5D533453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22F72E0-37AC-40A3-871E-5E14D1739C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22F72E0-37AC-40A3-871E-5E14D1739C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22F72E0-37AC-40A3-871E-5E14D1739C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22F72E0-37AC-40A3-871E-5E14D1739C3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

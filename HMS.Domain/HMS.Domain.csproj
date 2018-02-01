@@ -68,12 +68,6 @@
     <Compile Include="DomainClasses\Reservation.cs" />
     <Compile Include="DomainClasses\Room.cs" />
     <Compile Include="DomainClasses\RoomManagment.cs" />
-    <Compile Include="HMSContext.cs" />
-    <Compile Include="Migrations\201801292054584_HMS.cs" />
-    <Compile Include="Migrations\201801292054584_HMS.Designer.cs">
-      <DependentUpon>201801292054584_HMS.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -88,11 +82,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="TextFile1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201801292054584_HMS.resx">
-      <DependentUpon>201801292054584_HMS.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
